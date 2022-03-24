@@ -1,0 +1,14 @@
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_2\GFT_musica_elefante\bin\Debug\netcoreapp3.1\GFT_musica_elefante.exe
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_2\GFT_musica_elefante\bin\Debug\netcoreapp3.1\GFT_musica_elefante.deps.json
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_2\GFT_musica_elefante\bin\Debug\netcoreapp3.1\GFT_musica_elefante.runtimeconfig.json
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_2\GFT_musica_elefante\bin\Debug\netcoreapp3.1\GFT_musica_elefante.runtimeconfig.dev.json
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_2\GFT_musica_elefante\bin\Debug\netcoreapp3.1\GFT_musica_elefante.dll
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_2\GFT_musica_elefante\bin\Debug\netcoreapp3.1\GFT_musica_elefante.pdb
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_2\GFT_musica_elefante\obj\Debug\netcoreapp3.1\GFT_musica_elefante.csproj.AssemblyReference.cache
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_2\GFT_musica_elefante\obj\Debug\netcoreapp3.1\GFT_musica_elefante.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_2\GFT_musica_elefante\obj\Debug\netcoreapp3.1\GFT_musica_elefante.AssemblyInfoInputs.cache
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_2\GFT_musica_elefante\obj\Debug\netcoreapp3.1\GFT_musica_elefante.AssemblyInfo.cs
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_2\GFT_musica_elefante\obj\Debug\netcoreapp3.1\GFT_musica_elefante.csproj.CoreCompileInputs.cache
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_2\GFT_musica_elefante\obj\Debug\netcoreapp3.1\GFT_musica_elefante.dll
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_2\GFT_musica_elefante\obj\Debug\netcoreapp3.1\GFT_musica_elefante.pdb
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_2\GFT_musica_elefante\obj\Debug\netcoreapp3.1\GFT_musica_elefante.genruntimeconfig.cache

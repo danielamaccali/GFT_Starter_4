@@ -1,0 +1,14 @@
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_3\GFT_calcula_idade\bin\Debug\netcoreapp3.1\GFT_calcula_idade.exe
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_3\GFT_calcula_idade\bin\Debug\netcoreapp3.1\GFT_calcula_idade.deps.json
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_3\GFT_calcula_idade\bin\Debug\netcoreapp3.1\GFT_calcula_idade.runtimeconfig.json
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_3\GFT_calcula_idade\bin\Debug\netcoreapp3.1\GFT_calcula_idade.runtimeconfig.dev.json
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_3\GFT_calcula_idade\bin\Debug\netcoreapp3.1\GFT_calcula_idade.dll
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_3\GFT_calcula_idade\bin\Debug\netcoreapp3.1\GFT_calcula_idade.pdb
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_3\GFT_calcula_idade\obj\Debug\netcoreapp3.1\GFT_calcula_idade.csproj.AssemblyReference.cache
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_3\GFT_calcula_idade\obj\Debug\netcoreapp3.1\GFT_calcula_idade.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_3\GFT_calcula_idade\obj\Debug\netcoreapp3.1\GFT_calcula_idade.AssemblyInfoInputs.cache
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_3\GFT_calcula_idade\obj\Debug\netcoreapp3.1\GFT_calcula_idade.AssemblyInfo.cs
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_3\GFT_calcula_idade\obj\Debug\netcoreapp3.1\GFT_calcula_idade.csproj.CoreCompileInputs.cache
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_3\GFT_calcula_idade\obj\Debug\netcoreapp3.1\GFT_calcula_idade.dll
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_3\GFT_calcula_idade\obj\Debug\netcoreapp3.1\GFT_calcula_idade.pdb
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_3\GFT_calcula_idade\obj\Debug\netcoreapp3.1\GFT_calcula_idade.genruntimeconfig.cache

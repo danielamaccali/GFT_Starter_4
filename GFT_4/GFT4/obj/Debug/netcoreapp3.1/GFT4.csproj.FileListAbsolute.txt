@@ -1,0 +1,14 @@
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_4\GFT4\bin\Debug\netcoreapp3.1\GFT4.exe
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_4\GFT4\bin\Debug\netcoreapp3.1\GFT4.deps.json
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_4\GFT4\bin\Debug\netcoreapp3.1\GFT4.runtimeconfig.json
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_4\GFT4\bin\Debug\netcoreapp3.1\GFT4.runtimeconfig.dev.json
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_4\GFT4\bin\Debug\netcoreapp3.1\GFT4.dll
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_4\GFT4\bin\Debug\netcoreapp3.1\GFT4.pdb
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_4\GFT4\obj\Debug\netcoreapp3.1\GFT4.csproj.AssemblyReference.cache
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_4\GFT4\obj\Debug\netcoreapp3.1\GFT4.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_4\GFT4\obj\Debug\netcoreapp3.1\GFT4.AssemblyInfoInputs.cache
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_4\GFT4\obj\Debug\netcoreapp3.1\GFT4.AssemblyInfo.cs
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_4\GFT4\obj\Debug\netcoreapp3.1\GFT4.csproj.CoreCompileInputs.cache
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_4\GFT4\obj\Debug\netcoreapp3.1\GFT4.dll
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_4\GFT4\obj\Debug\netcoreapp3.1\GFT4.pdb
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_4\GFT4\obj\Debug\netcoreapp3.1\GFT4.genruntimeconfig.cache

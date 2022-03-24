@@ -1,0 +1,14 @@
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_1\GFT_senha\obj\Debug\netcoreapp3.1\GFT_senha.csproj.AssemblyReference.cache
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_1\GFT_senha\obj\Debug\netcoreapp3.1\GFT_senha.GeneratedMSBuildEditorConfig.editorconfig
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_1\GFT_senha\obj\Debug\netcoreapp3.1\GFT_senha.AssemblyInfoInputs.cache
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_1\GFT_senha\obj\Debug\netcoreapp3.1\GFT_senha.AssemblyInfo.cs
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_1\GFT_senha\obj\Debug\netcoreapp3.1\GFT_senha.csproj.CoreCompileInputs.cache
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_1\GFT_senha\bin\Debug\netcoreapp3.1\GFT_senha.exe
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_1\GFT_senha\bin\Debug\netcoreapp3.1\GFT_senha.deps.json
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_1\GFT_senha\bin\Debug\netcoreapp3.1\GFT_senha.runtimeconfig.json
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_1\GFT_senha\bin\Debug\netcoreapp3.1\GFT_senha.runtimeconfig.dev.json
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_1\GFT_senha\bin\Debug\netcoreapp3.1\GFT_senha.dll
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_1\GFT_senha\bin\Debug\netcoreapp3.1\GFT_senha.pdb
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_1\GFT_senha\obj\Debug\netcoreapp3.1\GFT_senha.dll
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_1\GFT_senha\obj\Debug\netcoreapp3.1\GFT_senha.pdb
+D:\DANIELA\PROGRAMACAO\GFT Starter #4\GFT_1\GFT_senha\obj\Debug\netcoreapp3.1\GFT_senha.genruntimeconfig.cache

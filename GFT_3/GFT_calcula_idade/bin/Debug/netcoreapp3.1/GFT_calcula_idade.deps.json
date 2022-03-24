@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GFT_calcula_idade/1.0.0": {
+        "runtime": {
+          "GFT_calcula_idade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GFT_calcula_idade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
